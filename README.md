@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML gives uniformity to your code. When you’re in the workforce, this uniformity can help you succeed in the sense that you will come in and know that all HTML is standardized, rather than a company using their own version of divs and tags.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display: Block takes up the full width available, with a new line before and after.
+Display : Inline takes up only as much width as it needs, and doesn’t force new lines.
 
 3. What are the 4 areas of the box model?
 
+4 areas of the box model are: content, padding, border, and margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The axis will be on the cross-axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git is useful to developers since it stores code and versions it, so that anyone and yourself can go back to the code if something broke or needs fixing.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -52,13 +63,13 @@ You are expected to be able to answer all these questions. Your responses contri
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
- 
+
 Follow these steps for completing your project.
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 - [ ] Add your project manager as a reviewer on the pull-request
 - [ ] Your project manager will count the project as complete by merging the branch back into master.
- 
+
 
 
 ## Minimum Viable Product
